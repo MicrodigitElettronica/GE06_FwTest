@@ -1,2 +1,2 @@
 # GE06_FwTest
-Firmware version only for testing GE06 boards
+Firmware version only for GE06 boards testing
